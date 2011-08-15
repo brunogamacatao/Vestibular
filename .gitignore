@@ -1,0 +1,8 @@
+*.class
+*.log
+.settings/
+devDB.*
+target/
+web-app/WEB-INF/classes/
+*.jasper
+
